@@ -1,4 +1,4 @@
 {
-  "token":"token de tu bot", //cambien esto por el token de su bot :P
-  "prefix": "!!" //pueden cambiar el prefijo si desean, solo es un ejemplo
+  "token":"token de tu bot",
+  "prefix": "!!"
 }
